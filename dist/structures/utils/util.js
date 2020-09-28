@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.removeDup = void 0;
+function removeDup(array) {
+    return [...new Set(array)];
+}
+exports.removeDup = removeDup;
+exports.default = {
+    removeDup,
+};
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoidXRpbC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9zdHJ1Y3R1cmVzL3V0aWxzL3V0aWwudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7O0FBQUEsU0FBZ0IsU0FBUyxDQUFDLEtBQVU7SUFDbEMsT0FBTyxDQUFDLEdBQUcsSUFBSSxHQUFHLENBQUMsS0FBSyxDQUFDLENBQUMsQ0FBQztBQUM3QixDQUFDO0FBRkQsOEJBRUM7QUFDRCxrQkFBZTtJQUNiLFNBQVM7Q0FDVixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGZ1bmN0aW9uIHJlbW92ZUR1cChhcnJheTogYW55KSB7XHJcbiAgcmV0dXJuIFsuLi5uZXcgU2V0KGFycmF5KV07XHJcbn1cclxuZXhwb3J0IGRlZmF1bHQge1xyXG4gIHJlbW92ZUR1cCxcclxufTtcclxuIl19

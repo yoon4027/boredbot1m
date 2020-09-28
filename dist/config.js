@@ -1,0 +1,6 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.prefix = exports.token = void 0;
+exports.token = "NzU4NzQwNDI3NjI4NjA5NjA3.X2zWFg.RP30hzGyHU5VnQ1Kaq-vu3fxYFE";
+exports.prefix = "bored";
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY29uZmlnLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vc3JjL2NvbmZpZy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7QUFBVyxRQUFBLEtBQUssR0FDZCw2REFBNkQsQ0FBQztBQUNyRCxRQUFBLE1BQU0sR0FBVyxPQUFPLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgbGV0IHRva2VuOiBzdHJpbmcgPVxyXG4gIFwiTnpVNE56UXdOREkzTmpJNE5qQTVOakEzLlgyeldGZy5SUDMwaHpHeUhVNVZuUTFLYXEtdnUzZnhZRkVcIjtcclxuZXhwb3J0IGxldCBwcmVmaXg6IHN0cmluZyA9IFwiYm9yZWRcIjtcclxuIl19
